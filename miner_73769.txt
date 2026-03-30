@@ -1,0 +1,35 @@
+Id : [ 0 ]
+Winner : [ 73769 ]
+Target : [ 0 ]
+Solution : 08916551 ( validated )
+Votes : [ 0 ]/[ 0 ]
+Wallets : [ 73769 ]:[ 0 ]
+
+Id : [ 1 ]
+Winner : [ 73769 ]
+Target : [ 8916551 ]
+Solution : 05970796 ( validated )
+Votes : [ 1 ]/[ 1 ]
+Wallets : [ 73769 ]:[ 1 ]
+
+Id : [ 2 ]
+Winner : [ 73769 ]
+Target : [ 5970796 ]
+Solution : 00937352 ( validated )
+Votes : [ 2 ]/[ 2 ]
+Wallets : [ 73769 ]:[ 2 ]
+
+Id : [ 3 ]
+Winner : [ 73769 ]
+Target : [ 937352 ]
+Solution : 01835314 ( validated )
+Votes : [ 3 ]/[ 3 ]
+Wallets : [ 73769 ]:[ 3 ]
+
+Id : [ 4 ]
+Winner : [ 73769 ]
+Target : [ 1835314 ]
+Solution : 09331340 ( validated )
+Votes : [ 4 ]/[ 4 ]
+Wallets : [ 73769 ]:[ 4 ]
+
