@@ -1,0 +1,70 @@
+Id : [ 0 ]
+Winner : [ 23716 ]
+Target : [ 0 ]
+Solution : 08916551 ( validated )
+Votes : [ 0 ]/[ 0 ]
+Wallets : [ 23716 ]:[ 0 ]
+
+Id : [ 1 ]
+Winner : [ 23716 ]
+Target : [ 8916551 ]
+Solution : 05970796 ( validated )
+Votes : [ 1 ]/[ 1 ]
+Wallets : [ 23716 ]:[ 1 ]
+
+Id : [ 2 ]
+Winner : [ 23716 ]
+Target : [ 5970796 ]
+Solution : 00937352 ( validated )
+Votes : [ 2 ]/[ 2 ]
+Wallets : [ 23716 ]:[ 2 ]
+
+Id : [ 3 ]
+Winner : [ 23716 ]
+Target : [ 937352 ]
+Solution : 01835314 ( validated )
+Votes : [ 3 ]/[ 3 ]
+Wallets : [ 23716 ]:[ 3 ]
+
+Id : [ 4 ]
+Winner : [ 23716 ]
+Target : [ 1835314 ]
+Solution : 09331340 ( validated )
+Votes : [ 4 ]/[ 4 ]
+Wallets : [ 23716 ]:[ 4 ]
+
+Id : [ 5 ]
+Winner : [ 23716 ]
+Target : [ 9331340 ]
+Solution : 02986686 ( validated )
+Votes : [ 5 ]/[ 5 ]
+Wallets : [ 23716 ]:[ 5 ]
+
+Id : [ 6 ]
+Winner : [ 23716 ]
+Target : [ 2986686 ]
+Solution : 07299854 ( validated )
+Votes : [ 6 ]/[ 6 ]
+Wallets : [ 23716 ]:[ 6 ]
+
+Id : [ 7 ]
+Winner : [ 23716 ]
+Target : [ 7299854 ]
+Solution : 03981310 ( validated )
+Votes : [ 7 ]/[ 7 ]
+Wallets : [ 23716 ]:[ 7 ]
+
+Id : [ 8 ]
+Winner : [ 23716 ]
+Target : [ 3981310 ]
+Solution : 08021305 ( validated )
+Votes : [ 8 ]/[ 8 ]
+Wallets : [ 23716 ]:[ 8 ]
+
+Id : [ 9 ]
+Winner : [ 23716 ]
+Target : [ 8021305 ]
+Solution : 04673876 ( validated )
+Votes : [ 9 ]/[ 9 ]
+Wallets : [ 23716 ]:[ 9 ]
+

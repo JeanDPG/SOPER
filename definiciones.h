@@ -3,18 +3,19 @@
 
 #include <pthread.h>
 
+// Estructura para mensajes entre minero y registrador
 typedef struct {
     int target;
     int solution;
     int ronda;
 } Message;
 
+//Estructura para pasar a los hilos de búsqueda de POW
 typedef struct {
     int start;
     int stop;
     int target;
     int* found;
-    pthread_mutex_t* mutex;
 } Rank;
 
 #endif
