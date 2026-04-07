@@ -37,7 +37,7 @@ void ejecutar_registrador(int pipe_lectura, int pipe_escritura, pid_t ppid) {
         // solution == -1 es la señal de terminación del minero
         if (msg.solution == -1) break;
 
-        printf("Registrador recibió solución %d\n", msg.solution);
+        //printf("Registrador recibió solución %d\n", msg.solution);
 
         const char *status = (pow_hash(msg.solution) <= msg.target)
                              ? "validated" : "rejected";
