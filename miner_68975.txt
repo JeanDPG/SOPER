@@ -1,0 +1,5 @@
+Round    : [ 31 ]
+Winner   : [ 68975 ]
+Target   : [ 5102694 ]
+Solution : 00622273 ( validated )
+
