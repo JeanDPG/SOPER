@@ -165,8 +165,8 @@ static void votar(ShmSistema *shm, int target_a_validar) {
 }
 
 /* ===========================================================================
- *  Recolección final de votos: imprime Winner... y devuelve VotoResultado.
- *  Llamada SIN tener sem_sistema cogido.
+ *  Recolección final de votos: imprime ganador y devuelve VotoResultado.
+ *  Llamada SIN tener sem_sistema.
  * =========================================================================== */
 static VotoResultado contar_y_mostrar_votos(ShmSistema *shm,
                                             pid_t ganador_pid,
@@ -198,7 +198,7 @@ static VotoResultado contar_y_mostrar_votos(ShmSistema *shm,
 }
 
 /* ===========================================================================
- *  EJECUTAR_MINERO  --  Punto de entrada del proceso minero
+ *  EJECUTAR_MINERO  
  * =========================================================================== */
 void ejecutar_minero(int n_secs, int n_threads,
                      int pipe_escritura, int pipe_lectura,
